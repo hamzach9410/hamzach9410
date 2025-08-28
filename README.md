@@ -39,7 +39,7 @@ I’m always eager to learn new technologies, contribute to meaningful projects,
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Hamza-Chs-Space-1) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hamzach_06) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hamzach_06) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hch705148@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2021ag9410@gmail.com)
 
 ---
 
@@ -49,9 +49,9 @@ I’m always eager to learn new technologies, contribute to meaningful projects,
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hamzach9410&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hamzach9410&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzach9410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hamzach9410&theme=dark&hide_border=false&t=1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hamzach9410&theme=dark&hide_border=false&t=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzach9410&theme=dark&hide_border=false&layout=compact&t=1)
 
 ---
 
