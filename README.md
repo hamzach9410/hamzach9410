@@ -39,6 +39,10 @@ I'm a **full-stack developer** with **~4 years of web experience** and **~1 year
 
 ---
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hamzach9410&theme=radical&hide_border=true&stroke=00D9FF" alt="GitHub Streak" height="220" />
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
