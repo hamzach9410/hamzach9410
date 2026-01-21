@@ -30,6 +30,11 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzach9410&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzach9410&theme=radical" height="180" />
+</p>
+---
 
 ### 💡 About Me
 - 💻 ~4 years in web development, ~1 year mastering AI/ML  
@@ -81,18 +86,6 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzach9410&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzach9410&theme=radical" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzach9410&theme=react-dark" alt="Activity Graph" />
 </p>
 
 ---
