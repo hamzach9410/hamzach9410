@@ -17,7 +17,17 @@
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hamzach9410&theme=radical&hide_border=true&stroke=00D9FF" alt="GitHub Streak" height="220" />
+📊 GitHub Analytics
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hamzach9410&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" height="220" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzach9410&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" height="220" />
+</div>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzach9410&theme=radical" alt="Profile Summary" />
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzach9410&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
+</div>
 
 ---
 
