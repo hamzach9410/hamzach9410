@@ -25,16 +25,16 @@
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzach9410&theme=radical" alt="Profile Summary" />
 </div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzach9410&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
-</div>
-
----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzach9410&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzach9410&theme=radical" height="180" />
 </p>
 ---
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzach9410&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+
 
 ### 💡 About Me
 - 💻 ~4 years in web development, ~1 year mastering AI/ML  
