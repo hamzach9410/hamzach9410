@@ -16,40 +16,36 @@
 - 🔧 **End-to-End Solutions** – From data processing to production-ready deployments  
 
 ---
-## 📊 GitHub Analytics
+## 🧬 GitHub Activity Matrix
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hamzach9410&show_icons=true&theme=radical&hide_border=true"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=hamzach9410&show_icons=true&hide_border=true&theme=radical"
+    height="170"
+    alt="GitHub Core Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzach9410&layout=compact&theme=radical&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=hamzach9410&theme=radical&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzach9410&layout=compact&hide_border=true&theme=radical"
+    height="170"
+    alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzach9410&theme=radical"
-    alt="Profile Summary"
+    src="https://github-readme-streak-stats.herokuapp.com?user=hamzach9410&hide_border=true&theme=radical"
+    height="170"
+    alt="Contribution Streak"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=hamzach9410&theme=react-dark&hide_border=true"
-    alt="Activity Graph"
+    alt="Live Contribution Graph"
   />
 </p>
+
 
 
 
