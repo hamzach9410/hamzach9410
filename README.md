@@ -16,33 +16,33 @@
 - 🔧 **End-to-End Solutions** – From data processing to production-ready deployments  
 
 ---
-## 🧬 GitHub Activity Matrix
+## 🧬 Live GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hamzach9410&show_icons=true&hide_border=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=hamzach9410&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800"
     height="170"
-    alt="GitHub Core Stats"
+    alt="Live GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzach9410&layout=compact&hide_border=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzach9410&layout=compact&hide_border=true&theme=radical&cache_seconds=1800"
     height="170"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=hamzach9410&hide_border=true&theme=radical"
-    height="170"
-    alt="Contribution Streak"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hamzach9410&theme=react-dark&hide_border=true"
-    alt="Live Contribution Graph"
+    src="https://streak-stats.demolab.com?user=hamzach9410&theme=radical&hide_border=true&cache_seconds=1800"
+    height="170"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hamzach9410&theme=react-dark&hide_border=true&custom_title=Live+Contribution+Timeline"
+    alt="Contribution Activity Graph"
   />
 </p>
 
