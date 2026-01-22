@@ -28,7 +28,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzach9410&theme=radical" height="180" />
 </p>
----
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzach9410&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
 </div>
