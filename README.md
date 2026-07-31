@@ -104,6 +104,92 @@
 ---
 
 
+## 🚀 Featured Projects
+
+### 🤖 AI & Machine Learning Projects
+
+#### 🤖 AI Assistant & Image Recognition Platform
+> **Tech Stack:** Python, OpenAI API, React, Node.js, OpenCV, TensorFlow  
+> Comprehensive AI platform combining intelligent chat, image generation, object detection, and facial recognition  
+> **Features:** Multi-modal AI interactions, real-time object detection, facial recognition system  
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/hamzach9410/AI-Assistant-Platform)
+
+---
+
+#### 🎙️ Jarvis – Personal Voice AI Assistant
+> **Tech Stack:** Python, OpenAI API, Speech Recognition, pyttsx3, Automation  
+> Advanced voice assistant with intelligent automation, speech-to-text, and natural language processing  
+> **Features:** Voice commands, task automation, web browsing, music control, weather updates  
+[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/hamzach9410/Jarvis-AI-Assistant)
+
+---
+
+#### 🧠 Custom ML Model Training Pipeline
+> **Tech Stack:** Python, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy  
+> End-to-end pipeline for data processing, model training, fine-tuning, and deployment  
+> **Features:** Data preprocessing, model optimization, hyperparameter tuning, model evaluation  
+[![View Project](https://img.shields.io/badge/View-Project-purple?style=for-the-badge)](https://github.com/hamzach9410/ML-Training-Pipeline)
+
+---
+
+#### 🎬 YouTube Playlist Downloader
+> **Tech Stack:** Python, YouTube API, Automation  
+> Intelligent tool for extracting full playlist video links with metadata for efficient downloading  
+> **Features:** Bulk download support, playlist parsing, metadata extraction  
+[![View Project](https://img.shields.io/badge/View-Project-red?style=for-the-badge)](https://github.com/hamzach9410/YouTube-Playlist-Downloader)
+
+---
+
+#### 🔍 Computer Vision Projects
+> **Tech Stack:** OpenCV, Python, TensorFlow, YOLO  
+> Collection of CV projects including object detection, image classification, and real-time processing  
+> **Features:** Real-time detection, image segmentation, facial recognition  
+[![View Project](https://img.shields.io/badge/View-Project-orange?style=for-the-badge)](https://github.com/hamzach9410/Computer-Vision-Projects)
+
+---
+
+#### 📊 Data Analytics & Visualization
+> **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn  
+> Data analysis projects with interactive visualizations and insights extraction  
+> **Features:** Data cleaning, statistical analysis, interactive dashboards  
+[![View Project](https://img.shields.io/badge/View-Project-yellow?style=for-the-badge)](https://github.com/hamzach9410/Data-Analytics-Projects)
+
+---
+
+### 💻 Full-Stack Web Development Projects
+
+#### 📚 Library Management System
+> **Tech Stack:** PHP, MySQL, JavaScript, Bootstrap  
+> Complete library management system with book issuing, returns, student portal, and admin dashboard  
+> **Features:** User authentication, book catalog, issue/return tracking, fine calculation  
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/hamzach9410/Library-Management-System)
+
+---
+
+#### 🎓 School Management System
+> **Tech Stack:** React, Node.js, Express, MongoDB  
+> Comprehensive school management platform with attendance, academic records, and result management  
+> **Features:** Student portal, teacher dashboard, attendance tracking, grade management  
+[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/hamzach9410/School-Management-System)
+
+---
+
+#### 🍽️ Restaurant Management System (NCR)
+> **Tech Stack:** Next.js, Node.js, MySQL, Tailwind CSS  
+> Modern restaurant management system with table booking, food ordering, and comprehensive admin features  
+> **Features:** Online ordering, table reservations, inventory management, sales analytics  
+[![View Project](https://img.shields.io/badge/View-Project-purple?style=for-the-badge)](https://github.com/hamzach9410/Restaurant-Management-NCR)
+
+---
+
+#### 🔄 Re-enrollment System
+> **Tech Stack:** React, Node.js, MongoDB  
+> Rule-based system for course repetition approvals and academic workflow management  
+> **Features:** Automated approval workflow, eligibility checking, course registration  
+[![View Project](https://img.shields.io/badge/View-Project-orange?style=for-the-badge)](https://github.com/hamzach9410/Re-enrollment-System)
+
+---
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
